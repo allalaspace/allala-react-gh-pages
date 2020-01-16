@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.d1b05096.chunk.css",
-    "main.js": "/react-gh-pages/static/js/main.a9e02f60.chunk.js",
-    "main.js.map": "/react-gh-pages/static/js/main.a9e02f60.chunk.js.map",
-    "runtime-main.js": "/react-gh-pages/static/js/runtime-main.3ca66fbc.js",
-    "runtime-main.js.map": "/react-gh-pages/static/js/runtime-main.3ca66fbc.js.map",
-    "static/js/2.2fe5023b.chunk.js": "/react-gh-pages/static/js/2.2fe5023b.chunk.js",
-    "static/js/2.2fe5023b.chunk.js.map": "/react-gh-pages/static/js/2.2fe5023b.chunk.js.map",
-    "index.html": "/react-gh-pages/index.html",
-    "precache-manifest.d9ca59e711f9613e0e26c4bb3435b531.js": "/react-gh-pages/precache-manifest.d9ca59e711f9613e0e26c4bb3435b531.js",
-    "service-worker.js": "/react-gh-pages/service-worker.js",
-    "static/css/main.d1b05096.chunk.css.map": "/react-gh-pages/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.2fe5023b.chunk.js.LICENSE": "/react-gh-pages/static/js/2.2fe5023b.chunk.js.LICENSE",
-    "static/media/logo.svg": "/react-gh-pages/static/media/logo.5d5d9eef.svg"
+    "main.css": "/allala-react-gh-pages/static/css/main.d1b05096.chunk.css",
+    "main.js": "/allala-react-gh-pages/static/js/main.dedcb204.chunk.js",
+    "main.js.map": "/allala-react-gh-pages/static/js/main.dedcb204.chunk.js.map",
+    "runtime-main.js": "/allala-react-gh-pages/static/js/runtime-main.ee9f0f61.js",
+    "runtime-main.js.map": "/allala-react-gh-pages/static/js/runtime-main.ee9f0f61.js.map",
+    "static/js/2.2fe5023b.chunk.js": "/allala-react-gh-pages/static/js/2.2fe5023b.chunk.js",
+    "static/js/2.2fe5023b.chunk.js.map": "/allala-react-gh-pages/static/js/2.2fe5023b.chunk.js.map",
+    "index.html": "/allala-react-gh-pages/index.html",
+    "precache-manifest.a8f60a79bd994c063bff1e5b6fd4b863.js": "/allala-react-gh-pages/precache-manifest.a8f60a79bd994c063bff1e5b6fd4b863.js",
+    "service-worker.js": "/allala-react-gh-pages/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/allala-react-gh-pages/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.2fe5023b.chunk.js.LICENSE": "/allala-react-gh-pages/static/js/2.2fe5023b.chunk.js.LICENSE",
+    "static/media/logo.svg": "/allala-react-gh-pages/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.3ca66fbc.js",
+    "static/js/runtime-main.ee9f0f61.js",
     "static/js/2.2fe5023b.chunk.js",
     "static/css/main.d1b05096.chunk.css",
-    "static/js/main.a9e02f60.chunk.js"
+    "static/js/main.dedcb204.chunk.js"
   ]
 }
